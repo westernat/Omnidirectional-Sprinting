@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "org.mesdage.omnidirectional_sprinting.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "omnidirectional_sprinting.refmap.json",
+    "mixins": [
+    ],
+    "client": [
+        "LocalPlayerMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
